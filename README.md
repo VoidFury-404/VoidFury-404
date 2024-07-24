@@ -1,4 +1,4 @@
-!!! PLEASE DONT JUDGE THIS CODE HARSHLY !!!
+!!! PLEASE JUDGE THIS CODE HARSHLY !!!
 
 
 - this is my first ever game, so yes i know the code is a little messed up and all but dont judge it,
