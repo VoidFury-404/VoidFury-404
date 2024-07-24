@@ -1,6 +1,6 @@
-==========================================================================================================
+
 								!!! PLEASE DONT JUDGE THIS CODE HARSHLY !!!
-==========================================================================================================
+
 
 - this is my first ever game, so yes i know the code is a little messed up and all but dont judge it,
 by luck it all works with out any game breaking issues, but be aware if you are going to use the volume
